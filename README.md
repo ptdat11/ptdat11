@@ -29,7 +29,7 @@
 <h2>Libraries / Frameworks</h2>
 <a href="https://react.dev/">
   <img
-    src="https://www.docker.com/"
+    src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png"
     alt="react"
     width="40"
   >
