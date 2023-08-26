@@ -48,3 +48,10 @@
     width="40"
   >
 </a>
+<a href="https://www.tensorflow.org">
+  <img
+    src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"
+    alt="tensorflow"
+    width="40"
+  >
+</a>
